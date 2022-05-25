@@ -1,4 +1,7 @@
-![](files/nmdc_logo_long.jpeg)![](files/ChangingMicrobiomes_Logo_long.png)
+<p float="left">
+	<img src="files/nmdc_logo_long.jpeg" width="300" />
+	<img src="files/ChangingMicrobiomes_Logo_long.png" width="300" />
+</p>
 
 # Changing Microbiomes 2022 NMDC Metadata Standards Workshop
 
@@ -6,7 +9,7 @@
 ## Details
 May 31st, 2022  
 Time: 1pm - 2:50pm  
-Instructor: Emily Davenport
+Instructors: Emily Davenport (NMDC Ambassador), Julia Kelliher (NMDC)
 
 ## Description
 
