@@ -21,6 +21,7 @@ In this workshop hosted by the [National Microbiome Data Collaborative (NMDC)](h
 Here are a list of resources for the workshop and for further learning after:  
 - Presentation  
 - [Activity](https://docs.google.com/document/d/1WFUtwq2jUOVFfRDW8Q1jzITqAbVbUckTNVIIVgTVC9k/edit?usp=sharing)  
+- [Example case study (human)](https://docs.google.com/document/d/1m80wo4AydL3Gc-iJUToOTDMcjcie8jgoSzyeo3SqGCE/edit?usp=sharing) | [Example case study (soil)](https://docs.google.com/document/d/14TbxjvzVSJEMYx2HKCsDO10vHQI4_jInQw6HSr-f_xE/edit?usp=sharing)  
 - [Post-event survey](https://bit.ly/PSUNMDC)  
 - [MIxS packages](https://github.com/GenomicsStandardsConsortium/mixs/tree/main/release/excel)  
 To download, click on the package that corresponds to your environment in the GitHub repository:  
