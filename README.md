@@ -19,7 +19,7 @@ In this workshop hosted by the [National Microbiome Data Collaborative (NMDC)](h
 ## Resources  
 
 Here are a list of resources for the workshop:  
-- [Presentation](files/Changing Microbiomes - NMDC Metadata Standards Workshop.pdf)  
+- [Presentation](files/presentation.pdf)  
 - [Activity](https://docs.google.com/document/d/1WFUtwq2jUOVFfRDW8Q1jzITqAbVbUckTNVIIVgTVC9k/edit?usp=sharing)  
 - [Example case study (human)](https://docs.google.com/document/d/1m80wo4AydL3Gc-iJUToOTDMcjcie8jgoSzyeo3SqGCE/edit?usp=sharing) | [Example case study (soil)](https://docs.google.com/document/d/14TbxjvzVSJEMYx2HKCsDO10vHQI4_jInQw6HSr-f_xE/edit?usp=sharing)  
 - [Post-event survey](https://bit.ly/PSUNMDC)  
